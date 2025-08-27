@@ -4,7 +4,15 @@ This project analyzes the **Heart Disease Indicators Dataset** to explore key he
 The workflow includes **data cleaning, exploratory data analysis (EDA), visualization, and dashboard building**.
 
 ---
+## Dashboard Preview
 
+![Dashboard Page 1](screenshot/dashboard_page_1.png)
+![Dashboard Page 2](screenshot/dashboard_page_2.png)
+![Dashboard Page 3](screenshot/dashboard_page_3.png)
+![Dashboard Page 4](screenshot/dashboard_page_4.png)
+
+
+---
 ## 📂 Project Structure
 ```
 Heart-Disease-Indicators-Analysis/
